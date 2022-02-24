@@ -1,6 +1,6 @@
 # Algofi - Algorand Standard Assets List
 
-This is a list of icons for projects on Algorand available for anyone to access.
+This is a list of icons for Algorand projects available for anyone to access.
 
 ## How to add your token icon
 
